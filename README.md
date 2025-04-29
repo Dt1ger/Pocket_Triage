@@ -37,6 +37,7 @@ Instantly clear the output window.
 ✅ About CyberD Pocket_Triage
 View instructions, feature list, and project information inside the app.
 
+
 📥 Installation
 Requirements
 
@@ -49,6 +50,8 @@ bash
 Copy
 Edit
 pip install pyqt5
+
+
 ⚙️ Usage
 Clone the repository:
 
@@ -91,6 +94,7 @@ Clear Output: resets the output window.
 
 About CyberD_Pocket_Triage: shows the app's internal README and instructions.
 
+
 ✨ Screenshots
 
 ![image](https://github.com/user-attachments/assets/e2ee4cfd-c03c-4e1d-ae8a-1a121eb1124d)
@@ -100,9 +104,10 @@ About CyberD_Pocket_Triage: shows the app's internal README and instructions.
 The visual theme and design of CyberD Pocket_Triage are inspired by the vibrant colors and strong spirit of Jamaican culture and heritage.
 Green, gold, and black elements reflect resilience, prosperity, and strength — values embedded in the purpose of this triage tool. 🇯🇲
 
-👨‍💻 Author
+
+👨🏾‍💻 Author
 Developed by Demar Powell
-Version: 2.0
+
 
 
 
