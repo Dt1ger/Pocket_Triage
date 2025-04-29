@@ -92,7 +92,12 @@ Clear Output: resets the output window.
 About CyberD_Pocket_Triage: shows the app's internal README and instructions.
 
 ✨ Screenshots
-(Include screenshots of the interface: homepage, terminal in action, quick scan output...)
+![image](https://github.com/user-attachments/assets/e2ee4cfd-c03c-4e1d-ae8a-1a121eb1124d)
+
+
+🎨 Design Inspiration
+The visual theme and design of CyberD Pocket_Triage are inspired by the vibrant colors and strong spirit of Jamaican culture and heritage.
+Green, gold, and black elements reflect resilience, prosperity, and strength — values embedded in the purpose of this triage tool. 🇯🇲
 
 👨‍💻 Author
 Developed by Demar Powell
