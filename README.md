@@ -92,6 +92,7 @@ Clear Output: resets the output window.
 About CyberD_Pocket_Triage: shows the app's internal README and instructions.
 
 ✨ Screenshots
+
 ![image](https://github.com/user-attachments/assets/e2ee4cfd-c03c-4e1d-ae8a-1a121eb1124d)
 
 
